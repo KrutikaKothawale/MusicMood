@@ -36,7 +36,7 @@ We have one module for each step in the text classification workflow.
 
 4.  *tune_ngram_model* - Contains example to demonstrate how you can find the best
     hyper-parameter values for your model.
-    
+     
 5.  *model_metrics* - Accuracy , Loss, Confussion Matrix, F1 Score, ROC Curve.
 
 6.  *app.py* - Python file for web application on FLASK
