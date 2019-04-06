@@ -42,3 +42,9 @@ We have one module for each step in the text classification workflow.
 6.  *app.py* - Python file for web application on FLASK
 ## CLAAT Document : https://codelabs-preview.appspot.com/?file_id=17fl-qp1hUTN2e9Ahvmqg5yrm-FrhGjyoKIGlUOs1NZU#0
 ## Web Application Link : http://infinite-depths-56714.herokuapp.com/ 
+
+### User Doc for Application:
+
+Select the country from the dropdown and enter the top number of songs you want to see the mood of. 
+The application will take you to next page, where you can see the mood (Happy / Sad) for each song based on the Lyrics
+You can also click and View the Lyrics of the song
