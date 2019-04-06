@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Song mood classification based on lyrics</title>
+	<link rel="stylesheet" href="/static/style.css">
+  </head>
+  <body>
+
+<h3>Prediction:</h3>
+<div>This song is <strong>{{mood}}</strong>
+	 (probability: {{probability}}%).</div>
+
+<div id='button'>
+	  <form action="custom">
+	    <input type=submit value='Submit another songtext'>
+	  </form>
+</div>
+<div id='button'>
+	  <form action="/">
+	    <input type=submit value='Home'>
+	  </form>
+</div>
+
+  </body>
+</html>
