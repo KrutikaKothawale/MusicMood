@@ -39,5 +39,6 @@ We have one module for each step in the text classification workflow.
     
 5.  *model_metrics* - Accuracy , Loss, Confussion Matrix, F1 Score, ROC Curve.
 
+6.  *app.py* - Python file for web application on FLASK
 ## CLAAT Document : https://codelabs-preview.appspot.com/?file_id=17fl-qp1hUTN2e9Ahvmqg5yrm-FrhGjyoKIGlUOs1NZU#0
 ## Web Application Link : http://infinite-depths-56714.herokuapp.com/ 
